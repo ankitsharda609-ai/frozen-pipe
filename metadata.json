@@ -1,0 +1,7 @@
+{
+  "name": "ArcticShield Frozen Pipe Services",
+  "description": "Premium emergency frozen pipe thawing and burst pipe repair service for Eagle River and Anchorage, Alaska. Features an AI-powered diagnostic assistant for immediate plumbing advice during extreme cold.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
